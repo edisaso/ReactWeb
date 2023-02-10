@@ -41,7 +41,7 @@ const cocktails = [
   },
   {
     title: 'CM shake',
-    price: '$10',
+    price: '$69',
     tags: 'Special ingredient from Connor Murphy | Citrus juice | Sugar',
   },
   {
